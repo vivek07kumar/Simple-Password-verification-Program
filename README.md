@@ -3,7 +3,7 @@ This is a simple password verification program written in Python.
 
 
 
-■ Below is the work flow of the program.
+■ Below is how the program behaves.
 
 
 1》 The program asks user to input a password.
