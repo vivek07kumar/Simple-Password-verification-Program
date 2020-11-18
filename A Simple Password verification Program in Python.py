@@ -1,6 +1,6 @@
-attempt = 1
+attempt = 0
 password = input('Please enter your Password : ')
-while password != 'yourpassword' and attempt <= 2 :
+while password != 'yourpassword' and attempt <= 3 :
     password = input('WRONG PASSWORD ! Please enter correct Password : ')
     attempt += 1
 if password != 'yourpassword' :
